@@ -1,0 +1,159 @@
+/* DIMENSION OF BOXES */
+/* div {
+  height: 200px;
+  width: 300px;
+  background-color: wheat;
+}
+
+p {
+  width: 80%;
+} */
+
+/* LIMITING WIDTH */
+/* td.description {
+  min-width: 450px;
+  max-width: 650px;
+  text-align: left;
+  padding: 5px;
+  margin: 0px;
+} */
+
+/* LIMITING HEIGHT */
+/* h2,
+p {
+  width: 400px;
+  font-size: 90%;
+  line-height: 1.2em;
+}
+h2 {
+  color: #0088dd;
+  border-bottom: 1px solid #0088dd;
+}
+p {
+  min-height: 100px;
+  max-height: 30px;
+  border: 1px solid red;
+} */
+
+/* OVERFLOW */
+/* p {
+  max-height: 50px;
+  border: 1px solid red;
+  overflow: scroll;
+} */
+
+/* BORDER WIDTH */
+/* one by one */
+/* p {
+  border-top-width: 1px;
+  border-right-width: 2px;
+  border-bottom-width: 3px;
+  border-left-width: 4px;
+} */
+/* p {
+  border-style: solid;
+  border-width: 1px 5px 10px 20px;  clockwise 
+} /*
+
+/* BORDER STYLE */
+/* solid, dashed, dotted,double,groove, inset, outset, ridge */
+/* p {
+  border-style: dotted;
+} */
+
+/* BORDER COLOR */
+/* P {
+  border-style: solid;
+  border-color: red;
+} */
+
+/* BORDER SHORTHAND */
+/* P {
+  border: 1px solid blue;
+} */
+
+/* PADDING */
+/* p {
+  border: 1px solid red;
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+} */
+
+/* MARGIN */
+/* p {
+  border: 2px solid red;
+}
+#p2 {
+  margin-top: 200px;
+} */
+
+/* CENTERING CONTENT */
+/* p {
+  border: 1px solid red;
+  width: 300px;
+  padding: 5px;
+}
+p.example {
+  margin: 10px auto 10px auto;
+  text-align: left;
+} */
+
+/* CHANGE INLINE-BLOCK */
+/* li {
+  display: inline;
+  margin-right: 10px;
+}
+
+li.coming-soon {
+  display: none;
+} */
+
+/* HIDDEN BOXES */
+/* li {
+  display: inline;
+  margin-right: 10px;
+}
+
+li.coming-soon {
+  visibility: hidden;
+} */
+
+/* BORDER IMAGES */
+/* .one {
+  border: 10px solid;
+  padding: 15px;
+  border-image: url(./colored-dots-7175905.webp) 150 stretch;
+} */
+
+/* BOX SHADOW */
+/* p.one {
+  box-shadow: 5px 5px 5px 5px #777777;
+} */
+
+/* ROUNDED CORNER */
+/* p {
+  width: 100px;
+  border: 2px solid red;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 20px 40px 60px 80px;
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-radius: 200px; 
+}*/
+
+/* CIRCLE MAKING */
+/* p {
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  text-align: center;
+} */
